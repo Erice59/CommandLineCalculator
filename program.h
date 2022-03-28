@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 #include <strings.h>
-#include <bool.h>
+#include <stdbool.h>
 
 
 float add (float a, float b);
